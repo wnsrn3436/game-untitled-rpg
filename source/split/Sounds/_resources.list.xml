@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<resources>
+  <resource name="장전" type="RESOURCE"/>
+  <resource name="장전완료소리" type="RESOURCE"/>
+  <resource name="마우스클릭" type="RESOURCE"/>
+  <resource name="배경음" type="RESOURCE"/>
+  <resource name="죽는소리" type="RESOURCE"/>
+  <resource name="돈돈던" type="RESOURCE"/>
+</resources>

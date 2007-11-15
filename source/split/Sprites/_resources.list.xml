@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<resources>
+  <resource name="공" type="RESOURCE"/>
+  <resource name="2" type="RESOURCE"/>
+  <resource name="3" type="RESOURCE"/>
+  <resource name="돌" type="RESOURCE"/>
+  <resource name="지나감" type="RESOURCE"/>
+  <resource name="버튼" type="RESOURCE"/>
+  <resource name="마우스" type="RESOURCE"/>
+  <resource name="1" type="RESOURCE"/>
+  <resource name="2_2" type="RESOURCE"/>
+  <resource name="3_2" type="RESOURCE"/>
+  <resource name="갖다대마우스" type="RESOURCE"/>
+  <resource name="3_3" type="RESOURCE"/>
+  <resource name="2_3" type="RESOURCE"/>
+  <resource name="1_2" type="RESOURCE"/>
+  <resource name="활" type="RESOURCE"/>
+  <resource name="1_3" type="RESOURCE"/>
+  <resource name="2_4" type="RESOURCE"/>
+  <resource name="할아범" type="RESOURCE"/>
+  <resource name="클릭부탁" type="RESOURCE"/>
+  <resource name="텔레포트" type="RESOURCE"/>
+  <resource name="사냥터" type="RESOURCE"/>
+  <resource name="적카운터" type="RESOURCE"/>
+  <resource name="적ㅋ2" type="RESOURCE"/>
+  <resource name="위로" type="RESOURCE"/>
+  <resource name="아래" type="RESOURCE"/>
+  <resource name="마우스_2" type="RESOURCE"/>
+  <resource name="다른돌" type="RESOURCE"/>
+  <resource name="적1" type="RESOURCE"/>
+  <resource name="공적1" type="RESOURCE"/>
+  <resource name="훗 진자주민" type="RESOURCE"/>
+  <resource name="스킬파는이" type="RESOURCE"/>
+  <resource name="쉴드" type="RESOURCE"/>
+  <resource name="쉴드불가" type="RESOURCE"/>
+</resources>
